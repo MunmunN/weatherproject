@@ -1,0 +1,18 @@
+body{
+  background-image: url("blue-snow.png");
+
+}
+.mydiv{
+  align-items: center;
+  text-align: center;
+  margin-top: 50px;
+}
+.input{
+  width:400px;
+  border-radius: 25px;
+  margin30px;
+}
+.mydiv button{
+  border-radius: 25px;
+  background-color: white;
+}
